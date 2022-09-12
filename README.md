@@ -1,12 +1,12 @@
-# TAforUI karate
+# Karate BBC UI test automation framework
 
-Test automation framework for UI.   
-This project embodies the knowledge I gained during my studies at AQA winter program 2022 in the EPAM company.
+Task [BBC UI test automation framework](https://github.com/puzz3d-at-qa-projects/bbc-ui-test-framework) completed using Karate framework.  
+Just a several `feature` files instead of dozens in BDD + PO approach :angry:
 
 ## Stack
 
-All the work was done in a IntelliJ IDEA IDE. Programming language - Java.  
 Tools that have been used for writing and running automation tests: 
-- Karate-junit5
+- Java.
+- Karate-junit5.
+- Maven.
 
-All together gathered up by Maven.
